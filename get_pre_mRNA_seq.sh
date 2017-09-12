@@ -24,7 +24,7 @@ browser=http://genome-asia.ucsc.edu/
 org=Human
 db=hg19
 track=knownGene
-#hubUrl=http://fantom.gsc.riken.jp/5/datahub/hub.txt
+hubUrl=http://fantom.gsc.riken.jp/5/datahub/hub.txt
 #track=FANTOM_CAT_lv4_stringent
 
 ### handle options
