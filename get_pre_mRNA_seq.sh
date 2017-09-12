@@ -19,13 +19,13 @@ EOF
   exit 1;
 }
 
-
+### default setting
 browser=http://genome-asia.ucsc.edu/
 org=Human
 db=hg19
 track=knownGene
-hubUrl=http://fantom.gsc.riken.jp/5/datahub/hub.txt
-track=FANTOM_CAT_lv4_stringent
+#hubUrl=http://fantom.gsc.riken.jp/5/datahub/hub.txt
+#track=FANTOM_CAT_lv4_stringent
 
 ### handle options
 while getopts b:o:d:t:h: opt
